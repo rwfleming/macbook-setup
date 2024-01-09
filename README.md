@@ -15,8 +15,8 @@ To use this script, follow these steps:
 1. Download the script to your macOS machine.
 2. Open the Terminal.
 3. Navigate to the directory where you downloaded the script.
-4. Make the script executable with the command `chmod +x <script_name>`.
-5. Run the script using `./<script_name>`.
+4. Make the script executable with the command `chmod +x setup.sh`.
+5. Run the script using `./setup.sh`.
 
 ## What the Script Does
 
