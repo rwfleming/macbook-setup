@@ -43,10 +43,6 @@ The script uses Homebrew to install the following applications:
 - This script is opinionated and applies settings that the author finds useful. You might want to review the script and modify it according to your preferences.
 - Running this script will change system settings and install various applications. Ensure you understand the impact of these changes on your system.
 
-## License
-
-Specify the license under which this script is released (if applicable).
-
 ## Contact
 
 For any queries or contributions, please contact the author of the script (provide contact information or a link to your GitHub profile).
